@@ -1,0 +1,20 @@
+.navbar img{
+    width: 200px;
+}
+.hero .img-banner{
+    border-radius: 20px;
+}
+.aaa{
+background-color: #555bcd!important;
+}
+.maps{
+    justify-content: space-around;
+    display: flex;
+    padding: 50px;
+}
+.rodape p, h4, .ppp{
+    color: #ffffff!important;
+}
+.icon-edit{
+    color: #ffffff!important;
+}
